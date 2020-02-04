@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrew/CLionProjects/mod2_lab0(login)/authNZ.cpp
+
+/home/andrew/CLionProjects/mod2_lab0(login)/main.cpp
+iostream
+-
+fstream
+-
+cstring
+-
+
